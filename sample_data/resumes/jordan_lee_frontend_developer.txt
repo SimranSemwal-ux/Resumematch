@@ -1,0 +1,30 @@
+Jordan Lee
+Seattle, WA | jordan.lee.web@email.com | github.com/jordanlee-ui
+
+PROFESSIONAL SUMMARY:
+Creative and performance-oriented Frontend Engineer with 3 years of experience crafting accessible, responsive web interfaces using React, Next.js, JavaScript, TypeScript, HTML, and CSS.
+
+TECHNICAL SKILLS:
+- Programming Languages: JavaScript, TypeScript, HTML, CSS, Python
+- Frameworks & Libraries: React, Next.js, Vue, Node.js, Express
+- Web & Tools: REST API, Git, GitHub, Linux, Figma, Vite, Jest
+- Core Competencies: UI/UX Design, Responsive Design, State Management, Web Performance
+
+WORK EXPERIENCE:
+Frontend Web Developer | PixelCraft Studio (2022 - Present)
+- Engineered responsive client interfaces using React, Next.js, and TypeScript.
+- Translated UI/UX designs into pixel-perfect components with modern CSS and HTML.
+- Integrated REST API endpoints with state management for seamless asynchronous data rendering.
+- Streamlined GitHub pull request workflows and automated linting via CI/CD.
+
+Junior Web Developer | Apex Digital (2021 - 2022)
+- Built interactive web pages using JavaScript, HTML, and CSS.
+- Maintained legacy single page apps built with Vue and Node.js.
+- Utilized Git for feature branching and release tracking.
+
+PROJECTS:
+- SaaS Analytics Dashboard: Built full-featured client portal using React and TypeScript.
+- Design System Component Library: Developed accessible, reusable UI component library published as an npm package.
+
+EDUCATION:
+Bachelor of Science in Software Engineering | Metro University (2021)

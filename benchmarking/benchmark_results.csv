@@ -1,0 +1,61 @@
+algorithm_category,algorithm_name,input_dimension_n,input_dimension_m,input_type,median_time_ms,peak_memory_kb,theoretical_time,theoretical_space
+String Matching,Naive Search (Worst-Case),500,50,Worst-Case Repetitive,1.3069,0.17,O(n * m),O(1)
+String Matching,KMP Search (Worst-Case),500,50,Worst-Case Repetitive,0.0678,0.54,O(n + m),O(m)
+String Matching,Naive Search (Average),500,50,Random Text,0.0327,0.17,O(n * m),O(1)
+String Matching,KMP Search (Average),500,50,Random Text,0.0547,0.51,O(n + m),O(m)
+String Matching,Naive Search (Worst-Case),1000,50,Worst-Case Repetitive,2.789,0.17,O(n * m),O(1)
+String Matching,KMP Search (Worst-Case),1000,50,Worst-Case Repetitive,0.1307,0.54,O(n + m),O(m)
+String Matching,Naive Search (Average),1000,50,Random Text,0.0708,0.17,O(n * m),O(1)
+String Matching,KMP Search (Average),1000,50,Random Text,0.1077,0.51,O(n + m),O(m)
+String Matching,Naive Search (Worst-Case),2500,50,Worst-Case Repetitive,7.4988,0.17,O(n * m),O(1)
+String Matching,KMP Search (Worst-Case),2500,50,Worst-Case Repetitive,0.3261,0.54,O(n + m),O(m)
+String Matching,Naive Search (Average),2500,50,Random Text,0.2059,0.17,O(n * m),O(1)
+String Matching,KMP Search (Average),2500,50,Random Text,0.2888,0.51,O(n + m),O(m)
+String Matching,Naive Search (Worst-Case),5000,50,Worst-Case Repetitive,15.522,0.17,O(n * m),O(1)
+String Matching,KMP Search (Worst-Case),5000,50,Worst-Case Repetitive,0.6459,0.54,O(n + m),O(m)
+String Matching,Naive Search (Average),5000,50,Random Text,0.3765,0.17,O(n * m),O(1)
+String Matching,KMP Search (Average),5000,50,Random Text,0.5252,0.51,O(n + m),O(m)
+String Matching,Naive Search (Worst-Case),10000,50,Worst-Case Repetitive,30.8553,0.17,O(n * m),O(1)
+String Matching,KMP Search (Worst-Case),10000,50,Worst-Case Repetitive,1.3489,0.54,O(n + m),O(m)
+String Matching,Naive Search (Average),10000,50,Random Text,0.8015,0.17,O(n * m),O(1)
+String Matching,KMP Search (Average),10000,50,Random Text,1.1785,0.51,O(n + m),O(m)
+String Matching,Naive Search (Worst-Case),25000,50,Worst-Case Repetitive,81.8633,0.17,O(n * m),O(1)
+String Matching,KMP Search (Worst-Case),25000,50,Worst-Case Repetitive,3.2531,0.54,O(n + m),O(m)
+String Matching,Naive Search (Average),25000,50,Random Text,1.9205,0.17,O(n * m),O(1)
+String Matching,KMP Search (Average),25000,50,Random Text,2.9266,0.51,O(n + m),O(m)
+LCS,Full DP Table (with Backtrack),50,50,Token Sequence,0.4356,23.65,O(m * n),O(m * n)
+LCS,Space-Optimized (2 Rows),50,50,Token Sequence,0.2741,1.23,O(m * n),"O(min(m, n))"
+LCS,Space-Optimized (1 Row),50,50,Token Sequence,0.2927,0.51,O(m * n),"O(min(m, n))"
+LCS,Full DP Table (with Backtrack),100,100,Token Sequence,1.3216,86.42,O(m * n),O(m * n)
+LCS,Space-Optimized (2 Rows),100,100,Token Sequence,1.1428,2.4,O(m * n),"O(min(m, n))"
+LCS,Space-Optimized (1 Row),100,100,Token Sequence,1.2772,0.9,O(m * n),"O(min(m, n))"
+LCS,Full DP Table (with Backtrack),200,200,Token Sequence,5.4526,329.05,O(m * n),O(m * n)
+LCS,Space-Optimized (2 Rows),200,200,Token Sequence,4.5385,4.74,O(m * n),"O(min(m, n))"
+LCS,Space-Optimized (1 Row),200,200,Token Sequence,4.6573,1.68,O(m * n),"O(min(m, n))"
+LCS,Full DP Table (with Backtrack),400,400,Token Sequence,23.0445,1282.91,O(m * n),O(m * n)
+LCS,Space-Optimized (2 Rows),400,400,Token Sequence,19.8755,9.55,O(m * n),"O(min(m, n))"
+LCS,Space-Optimized (1 Row),400,400,Token Sequence,20.0366,3.42,O(m * n),"O(min(m, n))"
+LCS,Full DP Table (with Backtrack),600,600,Token Sequence,93.2716,2861.73,O(m * n),O(m * n)
+LCS,Space-Optimized (2 Rows),600,600,Token Sequence,61.5839,14.23,O(m * n),"O(min(m, n))"
+LCS,Space-Optimized (1 Row),600,600,Token Sequence,65.4567,4.98,O(m * n),"O(min(m, n))"
+LCS,Full DP Table (with Backtrack),800,800,Token Sequence,136.5883,5065.29,O(m * n),O(m * n)
+LCS,Space-Optimized (2 Rows),800,800,Token Sequence,120.7844,18.92,O(m * n),"O(min(m, n))"
+LCS,Space-Optimized (1 Row),800,800,Token Sequence,138.6613,6.55,O(m * n),"O(min(m, n))"
+Edit Distance,Full DP Table (with Operations),50,50,Token Sequence,0.6882,36.58,O(m * n),O(m * n)
+Edit Distance,Space-Optimized (2 Rows),50,50,Token Sequence,0.5246,1.29,O(m * n),"O(min(m, n))"
+Edit Distance,Space-Optimized (1 Row),50,50,Token Sequence,0.5286,0.57,O(m * n),"O(min(m, n))"
+Edit Distance,Full DP Table (with Operations),100,100,Token Sequence,2.5176,112.78,O(m * n),O(m * n)
+Edit Distance,Space-Optimized (2 Rows),100,100,Token Sequence,2.0879,2.46,O(m * n),"O(min(m, n))"
+Edit Distance,Space-Optimized (1 Row),100,100,Token Sequence,1.9796,0.96,O(m * n),"O(min(m, n))"
+Edit Distance,Full DP Table (with Operations),200,200,Token Sequence,9.9015,382.82,O(m * n),O(m * n)
+Edit Distance,Space-Optimized (2 Rows),200,200,Token Sequence,7.7449,4.8,O(m * n),"O(min(m, n))"
+Edit Distance,Space-Optimized (1 Row),200,200,Token Sequence,7.6924,1.74,O(m * n),"O(min(m, n))"
+Edit Distance,Full DP Table (with Operations),400,400,Token Sequence,39.9768,3595.91,O(m * n),O(m * n)
+Edit Distance,Space-Optimized (2 Rows),400,400,Token Sequence,33.3977,34.35,O(m * n),"O(min(m, n))"
+Edit Distance,Space-Optimized (1 Row),400,400,Token Sequence,33.2278,16.05,O(m * n),"O(min(m, n))"
+Edit Distance,Full DP Table (with Operations),600,600,Token Sequence,113.4365,11292.62,O(m * n),O(m * n)
+Edit Distance,Space-Optimized (2 Rows),600,600,Token Sequence,78.6739,51.57,O(m * n),"O(min(m, n))"
+Edit Distance,Space-Optimized (1 Row),600,600,Token Sequence,77.2867,23.86,O(m * n),"O(min(m, n))"
+Edit Distance,Full DP Table (with Operations),800,800,Token Sequence,257.6919,21992.65,O(m * n),O(m * n)
+Edit Distance,Space-Optimized (2 Rows),800,800,Token Sequence,150.6793,68.45,O(m * n),"O(min(m, n))"
+Edit Distance,Space-Optimized (1 Row),800,800,Token Sequence,148.5058,31.67,O(m * n),"O(min(m, n))"

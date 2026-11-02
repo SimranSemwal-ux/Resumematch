@@ -1,0 +1,32 @@
+Alex Morgan
+San Francisco, CA | alex.morgan.dev@email.com | github.com/alexmorgan-dev
+
+PROFESSIONAL SUMMARY:
+Results-driven Full-Stack Software Engineer with 4 years of experience building scalable cloud applications, REST APIs, and responsive web user interfaces. Proficient in Python, JavaScript, TypeScript, React, and PostgreSQL. Experienced with containerized deployments using Docker, Kubernetes, and AWS.
+
+TECHNICAL SKILLS:
+- Programming Languages: Python, JavaScript, TypeScript, C++, SQL, HTML, CSS
+- Frameworks & Libraries: Django, FastAPI, React, Node.js, Express, Next.js
+- Databases: PostgreSQL, MySQL, Redis, MongoDB
+- Cloud & DevOps: AWS, Docker, Kubernetes, CI/CD, Git, GitHub, Linux
+- Core CS: Data Structures & Algorithms (DSA), OOP, DBMS, REST API, System Design
+
+WORK EXPERIENCE:
+Senior Software Developer | CloudScale Solutions (2022 - Present)
+- Designed and maintained 15+ microservices and REST APIs using Python, FastAPI, and Django.
+- Developed modular frontend dashboard components using React and TypeScript, improving page load speed by 35%.
+- Optimized database indexing and query execution plans in PostgreSQL, reducing query latency by 40%.
+- Orchestrated container builds with Docker and automated staging deployments to AWS EKS using Kubernetes and CI/CD pipelines.
+
+Software Engineer | NexaTech Systems (2020 - 2022)
+- Built internal tooling and data endpoints using Python, Flask, and MySQL.
+- Implemented responsive web UI views with JavaScript, HTML, and CSS.
+- Maintained code repositories using Git and conducted peer reviews on GitHub.
+
+PROJECTS:
+- Distributed Task Queue: Developed asynchronous background worker system in Python using Redis and Docker.
+- E-Commerce Microservices Platform: Architected full-stack shopping portal with React frontend and FastAPI REST API backend deployed on AWS.
+
+EDUCATION:
+Bachelor of Science in Computer Science | State University (Graduated 2020)
+- Coursework: Algorithms, Data Structures, Operating Systems, Computer Networks, Database Management Systems (DBMS).

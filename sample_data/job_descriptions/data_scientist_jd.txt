@@ -1,0 +1,21 @@
+Job Title: Machine Learning & Data Scientist
+Location: New York, NY / Hybrid
+Department: Artificial Intelligence & Analytics
+
+Overview:
+We are seeking a talented Data Scientist / Machine Learning Engineer to design, evaluate, and deploy predictive models and deep learning pipelines. You will collaborate with engineering teams to translate complex data into actionable machine learning solutions.
+
+Key Responsibilities:
+- Design, train, and validate statistical and Machine Learning models using Python, Scikit-learn, Pandas, and NumPy.
+- Implement Deep Learning architectures for Natural Language Processing (NLP) and Computer Vision using PyTorch or TensorFlow.
+- Execute end-to-end Data Analysis and build interactive business intelligence dashboards in Power BI and Tableau.
+- Perform exploratory data queries across large-scale relational and NoSQL databases using SQL, PostgreSQL, and MongoDB.
+- Productionize ML pipelines using Docker and deploy model endpoints to AWS or Azure.
+
+Required Qualifications:
+- Demonstrated experience in Machine Learning, Deep Learning, and Data Science methodologies.
+- Proficiency in Python, Pandas, NumPy, Scikit-learn, and SQL.
+- Deep familiarity with deep learning frameworks: PyTorch or TensorFlow.
+- Strong grounding in Algorithms, Data Structures, and statistical mathematics.
+- Experience with Git, Linux environments, and Docker containers.
+- Strong communication skills to present insights using Tableau or Power BI.

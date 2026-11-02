@@ -1,0 +1,32 @@
+Priya Sharma
+New York, NY | priya.sharma.ml@email.com | github.com/priyasharma-data
+
+PROFESSIONAL SUMMARY:
+Analytical Data Scientist and Machine Learning Engineer with 3+ years of expertise designing predictive models, deep learning architectures, and statistical analytics pipelines. Proficient in Python, PyTorch, TensorFlow, Pandas, NumPy, and SQL.
+
+TECHNICAL SKILLS:
+- Programming Languages: Python, SQL, R, Bash
+- AI & Data Science: Machine Learning, Deep Learning, Natural Language Processing (NLP), Computer Vision, Data Science, Data Analysis
+- Libraries & Frameworks: PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, OpenCV, Keras
+- Databases & Tools: PostgreSQL, MongoDB, Power BI, Tableau, Excel
+- Cloud & DevOps: Docker, AWS, Git, Linux
+
+WORK EXPERIENCE:
+Machine Learning Engineer | DataCore Insights (2022 - Present)
+- Developed and trained deep learning NLP classifiers in PyTorch, achieving 94% F1-score on customer sentiment benchmarks.
+- Built automated data analysis pipelines utilizing Pandas and NumPy to process 5M+ daily transactions.
+- Designed enterprise business intelligence dashboards in Tableau and Power BI for executive leadership.
+- Containerized model training workflows with Docker and deployed inference microservices on AWS EC2.
+
+Data Analyst | Metrics Analytics Group (2021 - 2022)
+- Wrote complex SQL queries across PostgreSQL databases to extract behavioral metrics.
+- Constructed regression and clustering models using Scikit-learn for customer segmentation.
+- Generated comprehensive exploratory data reports in Excel and Python.
+
+PROJECTS:
+- Medical Imaging Segmentation: Implemented convolutional neural network in TensorFlow and OpenCV for radiographic anomaly detection.
+- Financial Forecasting Pipeline: Developed end-to-end time series predictor using Python, Pandas, and Scikit-learn.
+
+EDUCATION:
+Master of Science in Data Science | Global Tech Institute (2021)
+Bachelor of Technology in Information Technology | National University (2019)

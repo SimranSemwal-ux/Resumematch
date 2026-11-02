@@ -1,0 +1,23 @@
+Job Title: Senior Full-Stack Python Engineer
+Location: Remote / Hybrid
+Department: Engineering
+
+Overview:
+We are looking for an experienced Full-Stack Python Engineer to design, develop, and scale high-performance cloud applications. In this role, you will lead the architecture of our core backend microservices and modern frontend user experiences.
+
+Key Responsibilities:
+- Architect and develop scalable REST APIs and distributed backend services using Python, Django, or FastAPI.
+- Build clean, responsive, and maintainable user interfaces using React, JavaScript, and TypeScript.
+- Design relational database schemas and optimize query performance in PostgreSQL and MySQL.
+- Containerize services using Docker and manage deployments with Kubernetes in AWS cloud environments.
+- Establish robust CI/CD deployment pipelines using Git, GitHub Actions, and Linux automation.
+- Apply foundational computer science principles including Data Structures, Algorithms (DSA), OOP, and System Design.
+
+Required Qualifications:
+- 3+ years of professional software engineering experience.
+- Strong proficiency in Python, JavaScript, and TypeScript.
+- Solid hands-on experience with React, Django, or Flask.
+- Experience with relational databases: PostgreSQL or MySQL, including complex SQL queries.
+- Familiarity with cloud platforms (AWS), containerization (Docker), and orchestration (Kubernetes).
+- Understanding of DBMS, OOP, REST API architectural principles, and Linux environments.
+- Bachelor's degree in Computer Science or equivalent practical experience.
